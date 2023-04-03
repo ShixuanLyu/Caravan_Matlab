@@ -3,7 +3,7 @@ Hi, welcome to the Caravan_Matlab. Caravan_Matlab is a set of codes to help you 
 Since the processed data is very large, only codes are provided here. But sufficient RAM is required for your computer. 
 
 # Contact information
-If you need Caravan_Matlab dataset directly, please just let me know. Please contact me: pa22285@bristol.ac.uk or shixuan.lyu@outlook.com.
+Since the Caravan dataset is truly large, which may require sufficient RAM, you can just let me know if you need Caravan_Matlab dataset directly. Please contact me: pa22285@bristol.ac.uk or shixuan.lyu@outlook.com.
 
 # Reference
 All the Matlab codes are based on SebastianGnann/CAMELS_Matlab. You can find more details here: https://github.com/SebastianGnann/CAMELS_Matlab. 
